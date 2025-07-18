@@ -1,6 +1,6 @@
 # Digital Ars - Billetera Virtual
 
-Digital Ars es una billetera virtual desarrollada como proyecto grupal final para el curso de aceleracion de la rama .NET/React, realizado por CITIA con colaboracion de Alkemy.  
+Digital Ars es una billetera virtual desarrollada como proyecto grupal final para el curso de aceleracion de la rama .NET/React, realizado por [CITIA](https://www.citialapampa.ar/) con colaboracion de [Alkemy](https://www.alkemy.org/).  
 
 Las tecnologias que usa son:
 * Backend
@@ -55,4 +55,4 @@ Cosas que puede realizar:
 * [Fausto Leonel Perez Russo](https://www.linkedin.com/in/fausto-leonel-perez-russo-771b64280/) -- Desarrollo Backend y Frontend, Diseño del DER
 * [Hebe Gómez](https://www.linkedin.com/in/hebe-gomez/) -- Desarrollo Backend y Frontend, diseño del logo
 * [Ignacio Casteran](https://www.linkedin.com/in/ignacio-casteran/) -- Estructura Inicial del Frontend, Diseño del DER, Informe SQL
-* Nicolas Herrera -- Ayuda en la presentacion del proyecto
+* Nicolas Herrera -- Colaboracion en la presentacion del proyecto
