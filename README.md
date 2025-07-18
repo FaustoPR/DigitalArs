@@ -23,7 +23,7 @@ Cosas que puede realizar:
 - [x] Modificar Usuarios/Cuentas como Administrador
 - [ ] Depositar y Retirar Dinero
 >[!NOTE]
->El programa no permite transferencias con dinero real, ya que fue echo como practica y para la entrega final, y no para se espera darle uso para un banco real
+>El programa no permite transferencias con dinero real, ya que fue echo como practica y para la entrega final, y no se espera darle uso para un banco real
 
 ---
 
@@ -47,5 +47,12 @@ Cosas que puede realizar:
       - Correo: hebe@gmail.com
       - Contraseña: gomez
 >[!IMPORTANT]
->Estos correos solo existen para inicio de sesion y no tienen uso real
-   
+>Estos correos solo existen dentro del programa para el inicio de sesion y no son correos reales
+
+---
+
+# Creditos
+* [Fausto Leonel Perez Russo](https://www.linkedin.com/in/fausto-leonel-perez-russo-771b64280/) -- Desarrollo Backend y Frontend, Diseño del DER
+* [Hebe Gómez](https://www.linkedin.com/in/hebe-gomez/) -- Desarrollo Backend y Frontend, diseño del logo
+* [Ignacio Casteran](https://www.linkedin.com/in/ignacio-casteran/) -- Estructura Inicial del Frontend, Diseño del DER, Informe SQL
+* Nicolas Herrera -- Ayuda en la presentacion del proyecto
